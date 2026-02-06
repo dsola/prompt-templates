@@ -165,6 +165,30 @@ Enterprise-grade Java applications with Spring Boot and modern Java practices.
 - Testing with JUnit 5 and Mockito
 - Maven/Gradle configuration
 
+### [Go](languages/go.md)
+High-performance Go applications with idiomatic patterns and clean architecture.
+
+**Topics:**
+- Go project structure and conventions
+- Gin/Echo/Chi web frameworks
+- Database access with sqlx/GORM
+- Goroutines and channels
+- Interface-based design
+- Table-driven testing
+- Dependency injection patterns
+
+### [Rust](languages/rust.md)
+Safe, concurrent Rust applications with zero-cost abstractions.
+
+**Topics:**
+- Ownership and borrowing
+- Actix-web/Rocket/Axum frameworks
+- Async/await with Tokio
+- SQLx for database access
+- Custom error types with thiserror
+- Testing with mockall
+- Type-safe configurations
+
 ## 🎯 How to Use These Templates
 
 ### 1. Choose the Right Template
@@ -259,6 +283,8 @@ Links to official documentation and additional resources.
 - **Python** → `languages/python.md` or FastAPI examples
 - **Node.js/TypeScript** → `languages/typescript.md`
 - **Java/Spring** → `languages/java.md`
+- **Go** → `languages/go.md`
+- **Rust** → `languages/rust.md`
 
 ### By Task
 - **Starting a new project** → Choose relevant application template + language template
